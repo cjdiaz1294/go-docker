@@ -14,3 +14,4 @@ Example of how to use a multi-stage docker file to build a go application with d
 `make run`
 
 
+things
